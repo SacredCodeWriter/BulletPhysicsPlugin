@@ -4,11 +4,11 @@
 
 #include "CoreMinimal.h"
 #include "PhysicsEngine/BodySetup.h"
-#include "BulletPhysicsEngineLibrary/BulletMinimal.h"
-#include "BulletPhysicsEngineLibrary/src/bthelper.h"
-#include "BulletPhysicsEngineLibrary/src/motionstate.h"
-#include "BulletPhysicsEngineLibrary/src/BulletMain.h"
-#include "BulletPhysicsEngineLibrary/debug/btdebug.h"
+#include "ThirdParty/BulletPhysicsEngineLibrary/BulletMinimal.h"
+#include "ThirdParty/BulletPhysicsEngineLibrary/src/bthelper.h"
+#include "ThirdParty/BulletPhysicsEngineLibrary/src/motionstate.h"
+#include "ThirdParty/BulletPhysicsEngineLibrary/src/BulletMain.h"
+#include "ThirdParty/BulletPhysicsEngineLibrary/debug/btdebug.h"
 #include "Components/ShapeComponent.h"
 #include <functional>
 #include "GameFramework/Actor.h"

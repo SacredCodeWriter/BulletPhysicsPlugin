@@ -8,6 +8,7 @@ public class BulletPhysicsEngine : ModuleRules
 	{
 		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
 		
+        DefaultBuildSettings = BuildSettingsVersion.Latest;
 		PublicIncludePaths.AddRange(
 			new string[] {
 				// ... add public include paths required here ...

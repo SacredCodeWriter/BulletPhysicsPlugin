@@ -1,7 +1,7 @@
 #pragma once
 
-#include "BulletPhysicsEngineLibrary/BulletMinimal.h"
-#include "BulletPhysicsEngineLibrary/src/bthelper.h"
+#include "ThirdParty/BulletPhysicsEngineLibrary/BulletMinimal.h"
+#include "ThirdParty/BulletPhysicsEngineLibrary/src/bthelper.h"
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 

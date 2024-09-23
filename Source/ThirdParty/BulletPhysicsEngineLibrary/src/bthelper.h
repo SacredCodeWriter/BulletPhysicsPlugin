@@ -1,5 +1,5 @@
 #pragma once
-#include "BulletPhysicsEngineLibrary/BulletMinimal.h"
+#include "ThirdParty/BulletPhysicsEngineLibrary/BulletMinimal.h"
 // Bullet scale is 1=1m, UE is 1=1cm
 // So x100
 #define BULLET_TO_WORLD_SCALE 100.f

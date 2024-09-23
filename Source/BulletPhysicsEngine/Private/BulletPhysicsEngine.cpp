@@ -5,7 +5,7 @@
 #include "Modules/ModuleManager.h"
 #include "Interfaces/IPluginManager.h"
 //#include "BulletPhysicsEngineLibrary/"
-#include "BulletPhysicsEngineLibrary/BulletMinimal.h"
+#include "ThirdParty/BulletPhysicsEngineLibrary/BulletMinimal.h"
 
 #define LOCTEXT_NAMESPACE "FBulletPhysicsEngineModule"
 

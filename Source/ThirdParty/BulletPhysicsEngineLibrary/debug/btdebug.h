@@ -1,6 +1,6 @@
 #pragma once
 #include "CoreMinimal.h"
-#include "BulletPhysicsEngineLibrary/BulletMinimal.h"
+#include "ThirdParty/BulletPhysicsEngineLibrary/BulletMinimal.h"
 
 class BulletDebugDraw : public btIDebugDraw
 {
